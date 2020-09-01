@@ -1,2 +1,2 @@
-# instahack
+# krtkinsta
 Need python
